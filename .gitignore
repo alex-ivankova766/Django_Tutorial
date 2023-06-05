@@ -1,3 +1,5 @@
 /Makefile
 /venv
 /store-template-course-master
+/store-server/store/products/__pycache__/
+/store-server/store/store/__pycache__/
